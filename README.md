@@ -1,3 +1,6 @@
+Aus github: https://github.com/stefanw/gba_qualitaetsberichte
+
+
 # Qualitätsberichte der Krankenhäuser des Gemeinsamen Bundesausschuss (GBA)
 
 Dieses Repo stellt eine Grundlage bereit, um die XML-Daten der Qualitätsberichte des GBA mit Python zu analyiseren.
